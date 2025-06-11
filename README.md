@@ -68,4 +68,22 @@ This dataset was provided by Ifunanya Gabriel as part of the #datachallengewithI
 
 
 
+![Luxury Car Dealership](https://github.com/user-attachments/assets/17c5b365-91b5-4480-9c62-3eadf7a1da52)
 
+
+
+
+---
+## Conclusion & Recommendation
+This analysis provided valuable insights into the sales performance of a high-end luxury car dealership. By leveraging Power BI for data transformation and visualization, we identified the top-performing manufacturers, transmission preferences, revenue trends, and geographic distribution of sales.
+
+### Recommendations:
++ Stock More Automatic Cars: Automatic vehicles consistently generate higher revenue.
+
++ Focus on Top Brands: Manufacturers like BMW and Lexus are leading in sales and should be prioritized in inventory planning.
+
++ Review Low-Performing Colors: Colors like Red, Yellow, and White generate lower sales and could be stocked in limited quantities.
+
++ Strengthen Supplier Relationships in Key Countries: Countries like the USA and Germany lead in revenue and may offer more profitable partnerships.
+
+These insights can help the dealership optimize inventory, boost revenue, and improve customer satisfaction.
